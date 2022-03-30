@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ValidacaoSenhaWebAPI/.vs/ValidacaoSenhaWebAPI
+/ValidacaoSenhaWebAPI/ValidacaoSenhaWebAPI/obj
+/ValidacaoSenhaWebAPI/ValidacaoSenhaTest/bin/Debug/net6.0
+/ValidacaoSenhaWebAPI/ValidacaoSenhaTest/obj
+/ValidacaoSenhaWebAPI/ValidacaoSenhaWebAPI/bin/Debug/net6.0
+/ValidacaoSenhaWebAPI/ValidacaoSenhaUnitTest/obj/Debug
