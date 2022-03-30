@@ -18,7 +18,7 @@ Esta API possui a funcionalidade de validação de senha.
 | `400` | Erros de validação.|
 | `404` | Registro pesquisado não encontrado (Not found).|
 
-
+## Recursos
 ### Validar [GET /api/Senha/Validar/{senha}]
 
 + Parameters
